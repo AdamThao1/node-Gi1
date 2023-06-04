@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Luara James",
+        "salary": 50000,
+        "department": "IT"
+    },
+    {
+        "employeeID": 2,
+        "name": "Enock Cave",
+        "salary": 70000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 3,
+        "name": "Mel Res",
+        "salary": 45000,
+        "department": "IT"
+    },
+    {
+        "employeeID": 4,
+        "name": "Charly Man",
+        "salary": 55000,
+        "department": "System Security"
+    },    
+    {
+        "employeeID": 5,
+        "name": "Chris Pope",
+        "salary": 55000,
+        "department": "System Security"
+    },
+    {
+        "employeeID": 6,
+        "name": "John King",
+        "salary": 50000,
+        "department": "IT"
+    },    
+    {
+        "employeeID": 7,
+        "name": "Wes Brook",
+        "salary": 90000,
+        "department": "Manager"
+    },
+    {
+        "employeeID": 8,
+        "name": "Steven Vee",
+        "salary": 70000,
+        "department": "Team-Lead"
+    },
+    {
+        "employeeID": 9,
+        "name": "Que Lee",
+        "salary": 75000,
+        "department": "Team-manager"
+    },
+    {
+        "employeeID": 1,
+        "name": "Stephen Curry",
+        "salary": 45000,
+        "department": "IT support"
+    }
+]
